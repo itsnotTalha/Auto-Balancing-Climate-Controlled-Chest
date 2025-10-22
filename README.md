@@ -4,6 +4,7 @@ Elelctronics lab project aimed to to balance itself automatically and give preci
 
 <p align="center">
   <img src="./Picture1.jpg" alt="Image 1" width="320">
+  <img src="./Team ServoNoshto.jpg" alt="My Team" width="320">
   <img src="./Picture2.jpg" alt="Image 1" width="300">
 </p>
 
