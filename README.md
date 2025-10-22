@@ -4,7 +4,6 @@ Elelctronics lab project aimed to to balance itself automatically and give preci
 
 <p align="center">
   <img src="./Picture1.jpg" alt="Image 1" width="320">
-  <img src="./Team ServoNoshto.jpg" alt="My Team" width="320">
   <img src="./Picture2.jpg" alt="Image 1" width="300">
 </p>
 
@@ -17,7 +16,7 @@ DHT22 continuously monitors conditions. The Peltier module cools or heats as req
 ## 3.Data Display & Wireless Monitoring:
 Real-time data is shown on the LCD and transmitted wirelessly to smartphones or cloud for IoT-based observation.
 <p align="center">
-  <img src="./Web.png" alt="Demo Web" width="300">
+  <img src="./Web.png" alt="Demo Web" width="400">
 </p>
 
 ## 4.Optimized Power Management:
@@ -32,5 +31,11 @@ The Peltier activates only when needed, reducing energy waste and maintaining sa
 3. DHT22 measures temperature/humidity; the Pi controls Peltier and fan accordingly.
 4. Data is logged locally and wirelessly shared for monitoring.
 5. Alerts are generated when readings exceed safe limits.
+
 # Applications:
 Medical logistics (vaccines, blood, organs), research labs, defense, and industrial transport requiring vibration-free and controlled environments.
+
+# Meet the team : Team Servo Noshto
+<p align="center">
+  <img src="./Team ServoNoshto.jpg" alt="Demo Web" width="350">
+</p>
