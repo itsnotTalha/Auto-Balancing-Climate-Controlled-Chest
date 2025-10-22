@@ -3,8 +3,8 @@ Elelctronics lab project aimed to to balance itself automatically and give preci
 
 
 <p align="center">
-  <img src="./Picture1.jpg" alt="Image 1" width="320">
-  <img src="./Picture2.jpg" alt="Image 1" width="300">
+  <img src="./images/Picture1.jpg" alt="Image 1" width="320">
+  <img src="./images/Picture2.jpg" alt="Image 1" width="300">
 </p>
 
 
@@ -16,7 +16,7 @@ DHT22 continuously monitors conditions. The Peltier module cools or heats as req
 ## 3.Data Display & Wireless Monitoring:
 Real-time data is shown on the LCD and transmitted wirelessly to smartphones or cloud for IoT-based observation.
 <p align="center">
-  <img src="./Web.png" alt="Demo Web" width="400">
+  <img src="./images/Web.png" alt="Demo Web" width="400">
 </p>
 
 ## 4.Optimized Power Management:
@@ -37,5 +37,5 @@ Medical logistics (vaccines, blood, organs), research labs, defense, and industr
 
 # Meet the team : Team Servo Noshto
 <p align="center">
-  <img src="./Team ServoNoshto.jpg" alt="Demo Web" width="350">
+  <img src="./images/Team ServoNoshto.jpg" alt="Demo Web" width="350">
 </p>
